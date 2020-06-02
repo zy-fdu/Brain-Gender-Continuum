@@ -56,9 +56,9 @@ step 6: Sensitivity analysis of the SVM model. (func6_sensitivity_analysis.m)
   
     step 6.3: Changing the age upper bound of training samples, and test its influence on test accuracy.
   
-            step 6.3.1: Age and its higher order terms were regressed from the functional connectivity as what has been done in other part of the study.
+        step 6.3.1: Age and its higher order terms were regressed from the functional connectivity as what has been done in other part of the study.
     
-            step 6.3.2: Age and its higher order terms were not regressed from the functional connectivity to study the age effect on test accuracy.
+        step 6.3.2: Age and its higher order terms were not regressed from the functional connectivity to study the age effect on test accuracy.
     
     step 6.4: Excluding one brain network used in the model at a time, and test its influence on test accuracy.
   
