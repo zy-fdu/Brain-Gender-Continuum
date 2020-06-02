@@ -35,7 +35,7 @@ step 3: Balancing training samples in two sexes and regressing out age and their
 
     step 3.1: Randomly choosing equal female and male subjects to keep the balance between two sexes in training samples.
   
-   step 3.2: Regressing out age and their higher order terms from functional connectivity from training and test sets respectively.
+    step 3.2: Regressing out age and their higher order terms from functional connectivity from training and test sets respectively.
 
 
 step 4: Training and assessment of the performance of the SVM model. (func4_CV_and_testing_of_SVM_model.m)
