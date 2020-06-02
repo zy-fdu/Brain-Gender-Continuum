@@ -15,7 +15,6 @@ SUMMARY （Matlab2019a; PALM:https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/PALM)
 
 step 1: Sex differences in global functional connectivity. (func1_sex_difference_of_gFC.m)
 
-
   step 1.1: Fitting localized spline curve for global functional connectivity without considering the covariates.
   
   step 1.2: Fitting localized spline curve considering the covariates.
