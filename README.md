@@ -5,11 +5,17 @@ XXXXXXXXXXX
 
 NOTE
 
-1.Per the data accessing policy of the GRIP (http://www.gripinfo.ca/Grip/Public/www/QuoiNeuf/en/faitssaillants.asp?langue=en),
-the QLSCD data could be used only after approval. Therefore, the QLSCD data in this folder are not allowed to be shared to anyone else.
-2.Per the data accessing policy of the NDA agreement, the usage of the ABCD data needs the approval by NIMH. The ABCD cohort Release v1.0 (DOI: 10.15154/1460410) was used in this study.
-3.The aal2TC.mat and aal2FC.mat file were time courses and functional connectivity of samples in all three dataset, which were preprocessed by Weikang Gong, who was a colleague in our lab and currently a PhD student at University of Oxford. The pipeline descripted in the Method section were used to preprocess the data.
-4.If the data and codes are used in your work, please cite the above reference, namely XXXXX.
+1. Use of all data included in the paper was acknowledged.
+    
+    1.1 IMAGEN data was available by application to consortium coordinator Dr. Schumann (http://imagen-europe.com) after evaluation according to an established procedure.(DOI:10.1038/mp.2010.4)
+    
+    1.2 HCP S900 data was used in our study, which was provided by the WU-Minn Consortium. (Principal Investigators: David Van Essen and Kamil Ugurbil; 1U54MH091657) (DOI:10.1016/j.neuroimage.2013.05.041)
+    
+    1.3 The UK Biobank data was an open resource and available to researchers by registering and applying to access the Resource via the Resource Access Management System (http://www.ukbiobank.ac.uk/) (DOI:10.1038/nn.4393)
+
+2.The aal2TC.mat and aal2FC.mat file were time courses and functional connectivity of samples in all three dataset. The YMU_data.mat were functional connectivity of samples in Yang-Ming University dataset. All data were preprocessed by Weikang Gong, who was a colleague in our lab and currently a PhD student at University of Oxford. The pipeline descripted in the Method section were used to preprocess the data.
+
+3.If the data and codes are used in your work, please cite the above reference, namely XXXXX.
 
 SUMMARY （Matlab2019a; PALM:https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/PALM)
 
