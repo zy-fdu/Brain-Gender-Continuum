@@ -56,15 +56,15 @@ step 5: Testing the validity of the SVM model to make sure androgyny given by th
 
 step 6: Sensitivity analysis of the SVM model. (func6_sensitivity_analysis.m)
 
-    step 6.1: Changing sample size of training set, and test its influence on test accuracy.
+    step 6.1: Changing sample size of training set, and test its influence on test accuracy.(calc_ss.m)
   
-    step 6.2: Changing age configuration (percentage of training samples older than 65 years old), and test its influence on test accuracy.
+    step 6.2: Changing age configuration (percentage of training samples older than 65 years old), and test its influence on test accuracy.(calc65.m)
   
     step 6.3: Changing the age upper bound of training samples, and test its influence on test accuracy.
   
-        step 6.3.1: Age and its higher order terms were regressed from the functional connectivity as what has been done in other part of the study.
+        step 6.3.1: Age and its higher order terms were regressed from the functional connectivity as what has been done in other part of the study.(calc_age_reg.m)
     
-        step 6.3.2: Age and its higher order terms were not regressed from the functional connectivity to study the age effect on test accuracy.
+        step 6.3.2: Age and its higher order terms were not regressed from the functional connectivity to study the age effect on test accuracy.(calc_age_unreg.m)
     
     step 6.4: Excluding one brain network used in the model at a time, and test its influence on test accuracy.
   
