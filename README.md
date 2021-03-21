@@ -1,7 +1,8 @@
 # Brain-continuum
 Key words: the UK Biobank cohort; the Human Connectome Project cohort; the IMAGEN cohort (FU2); multi-level block permutation; support vector machine
 Data and Code of paper:
-XXXXXXXXXXX
+
+The Human Brain Is Best Described as Being on a Female/Male Continuum: Evidence from a Neuroimaging Connectivity Study (Zhang et al. 2021, doi: 10.1093/cercor/bhaa408)
 
 NOTE
 
@@ -15,7 +16,7 @@ NOTE
 
 2.The aal2TC.mat and aal2FC.mat file were time courses and functional connectivity of samples in all three dataset. The YMU_data.mat were functional connectivity of samples in Yang-Ming University dataset. All data were preprocessed by Weikang Gong, who was a colleague in our lab and currently a PhD student at University of Oxford. The pipeline descripted in the Method section were used to preprocess the data.
 
-3.If the data and codes are used in your work, please cite the above reference, namely XXXXX.
+3.If the data and codes are used in your work, please cite the above reference, namely Zhang Y, Luo Q, Huang C, et al. 2021. The Human Brain Is Best Described as Being on a Female/Male Continuum: Evidence from a Neuroimaging Connectivity Study. Cereb Cortex. bhaa 408.
 
 SUMMARY （Matlab2019a; PALM:https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/PALM)
 
