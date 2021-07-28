@@ -14,7 +14,7 @@ NOTE
     
     1.3 The UK Biobank data was an open resource and available to researchers by registering and applying to access the Resource via the Resource Access Management System (http://www.ukbiobank.ac.uk/) (DOI:10.1038/nn.4393)
 
-2.The aal2TC.mat and aal2FC.mat file were time courses and functional connectivity of samples in all three dataset. The YMU_data.mat were functional connectivity of samples in Yang-Ming University dataset. All data were preprocessed by Weikang Gong, who was a colleague in our lab and currently a PhD student at University of Oxford. The pipeline descripted in the Method section were used to preprocess the data.
+2.The aal2TC.mat and aal2FC.mat file were time courses and functional connectivity of samples in all three dataset. Global signal was NOT regressed out from the preprocessed data. The YMU_data.mat were functional connectivity of samples in Yang-Ming University dataset. All data were preprocessed by Weikang Gong, who was a colleague in our lab and currently a PhD student at University of Oxford. The pipeline descripted in the Method section were used to preprocess the data.
 
 3.If the data and codes are used in your work, please cite the above reference, namely Zhang Y, Luo Q, Huang C, et al. 2021. The Human Brain Is Best Described as Being on a Female/Male Continuum: Evidence from a Neuroimaging Connectivity Study. Cereb Cortex. bhaa 408.
 
