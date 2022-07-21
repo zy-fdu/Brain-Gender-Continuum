@@ -4,6 +4,8 @@ Data and Code of paper:
 
 The Human Brain Is Best Described as Being on a Female/Male Continuum: Evidence from a Neuroimaging Connectivity Study (Zhang et al. 2021, doi: 10.1093/cercor/bhaa408)
 
+The toolbox for computing the brain sex continuum could be found at https://github.com/zy-fdu/Brain-Sex-Continuum.
+
 NOTE
 
 1. Use of all data included in the paper was acknowledged.
